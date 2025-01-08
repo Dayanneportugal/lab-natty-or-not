@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Inteligência Artificial e o Compliance Empresarial 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Este e-book contém criado para demonstrar como a integração da IA com o compliance empresarial é benéfico para os objetivos coorporativos.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+•	IA Generativa ChatGPT para roteirização e revisão;
+•	IA Generativa Canva  para edição e layout do arquivo;
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o conteúdo, enriquecer a fundamentação e organizar o texto. O Canva foi usado para editar, ilustrar formatar todo o layout do E-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue o resultado do projeto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O projeto foi executado com base no aprendizado adquirido no curso. Foi possível perceber a riqueza de possibilidades existentes nas IA Generativas e o quanto é necessário o continuo uso das ferramentas para aumentar o conhecimento e habilidades.
